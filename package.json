@@ -1,0 +1,12 @@
+{
+  "name": "playlist.js",
+  "description": "JavaScript Playlist Framework to develop Music Player.",
+  "main": [
+    "src/cross.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "author": "Nelly N"
+}
